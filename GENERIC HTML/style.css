@@ -1,0 +1,96 @@
+body {
+    background-color:white;
+}
+
+
+h1 {
+    color:blue;
+}
+
+
+
+
+h2 {
+    font-size: 20px;
+    font-style:oblique ;
+    color: red;
+}
+
+
+
+h4 {
+    color: red;
+font-size: 20px;}
+
+
+
+h5 {
+    font-size: 20px;
+    font-style: inherit;
+    color: blue;
+}
+
+
+
+
+h6 {
+    font-size: 30px;
+    font-style: oblique ;
+    color: brown;
+}
+
+
+
+
+h7 {
+    font-size: 20px;
+    font-style: oblique;
+    color: blue;
+}
+
+
+h8 {
+    font-size: 25px;
+}
+
+
+
+
+h9 {
+    font-style: oblique;
+    font-size: 20px;
+    color: red;
+}
+    
+ 
+
+
+
+.photos img{
+    display: grid;
+    grid-template-columns: 30px;
+    column-gap: 30px;
+    width: 450px;
+
+}
+
+.photos-button.photos
+
+ 
+H11 {
+    font-size: 20px;
+    color: blue;
+}
+
+
+
+
+p2 {
+    font-size: 20px;
+    color: red;
+}
+
+
+.photes{
+    width: 500px;
+}
